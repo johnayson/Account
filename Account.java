@@ -1,12 +1,3 @@
-/*
- * Class: CS 111B OBjected-Oriented Programming Methodologies in Java
- * Description: A bank account class with methods to deposit, 
- * withdraw and check the balance.
- * Due date: 10/5/2015
- * File name: Account.java
- * Lab #6
- * Programmed by John Ayson.
- */
 
 //*******************************************************
 // Account.java
